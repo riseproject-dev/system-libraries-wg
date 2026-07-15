@@ -1,0 +1,23 @@
+# RISE System Libraries WG
+
+## About RISE
+
+[RISE](https://riseproject.dev) is a collaborative, industry-led initiative under the Linux Foundation that accelerates open-source software development for the RISC-V architecture.
+
+## Charter
+
+This working group covers system libraries (e.g. libc, openssl, openblas) as well as application- and domain-specific libraries that matter to RISE members. Our objectives are to:
+
+- Help collaboration across companies to avoid duplication of work
+- Accelerate the libraries on RISC-V
+- Communicate on the readiness of the respective ecosystems
+
+## Project Tracking
+
+Work is tracked on our [project board](https://github.com/orgs/riseproject-dev/projects/11).
+
+## Get Involved
+
+- File an [issue](https://github.com/riseproject-dev/system-libraries-wg/issues) to propose work, report a gap, or raise a question
+- Contact us to get involved
+- Have a look at the [project board](https://github.com/orgs/riseproject-dev/projects/11) to see what's in progress
