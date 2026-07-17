@@ -21,3 +21,11 @@ Work is tracked on our [project board](https://github.com/orgs/riseproject-dev/p
 - File an [issue](https://github.com/riseproject-dev/system-libraries-wg/issues) to propose work, report a gap, or raise a question
 - Contact us to get involved
 - Have a look at the [project board](https://github.com/orgs/riseproject-dev/projects/11) to see what's in progress
+
+## Meetings
+
+The System Libraries WG meets every two weeks on Tuesday starting from June 27th 2023.
+
+## Resources
+
+* [Google Drive](https://drive.google.com/drive/u/0/folders/1syOHfiZXiG-VupldSQM4oPg5QMqo2VYb)
